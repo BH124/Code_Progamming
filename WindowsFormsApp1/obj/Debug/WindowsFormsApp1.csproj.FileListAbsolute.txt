@@ -1,0 +1,22 @@
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MINH\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\Cửa hàng quản lí xe máy.exe.config
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\Cửa hàng quản lí xe máy.exe
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\bin\Debug\Cửa hàng quản lí xe máy.pdb
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\Cửa hàng quản lí xe máy.exe
+C:\Users\My PC\source\repos\WindowsFormsApp1 (1)\WindowsFormsApp1\obj\Debug\Cửa hàng quản lí xe máy.pdb
